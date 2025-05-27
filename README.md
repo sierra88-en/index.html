@@ -1,54 +1,55 @@
+# ROGUEINK - Urban Legends
 
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ROGUEINK - Urban Legends</title>
-  <link rel="stylesheet" href="style.css" />
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
- </style>
-</head>
-<body>
-  <header class="hero">
-    <div class="container">
-      <h1>ROGUEINK</h1>
-      <p>La tinta no se borra. Las leyendas tampoco.</p>
-      <nav>
-        <ul>
-          <li><a href="#colecciones">Colecciones</a></li>
-          <li><a href="https://tu-tienda-printful.com" target="_blank">Tienda</a></li>
-          <li><a href="#contacto">Contacto</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
+**La tinta no se borra. Las leyendas tampoco.**
 
-  <section id="colecciones" class="colecciones">
-    <div class="container">
-      <h2>Explora nuestras colecciones</h2>
-      <div class="grid">
-        <div class="item">
-          <img src="img/calavera1.jpg" alt="Calavera rebelde" />
-          <h3>Skull Rebellion</h3>
-        </div>
-        <div class="item">
-          <img src="img/calavera2.jpg" alt="Arte urbano" />
-          <h3>Urban Ink</h3>
-        </div>
-      </div>
-    </div>
-  </section>
+Bienvenido al repositorio oficial del sitio web de **ROGUEINK**, una marca nacida del arte callejero, el poder del tatuaje y la rebeldía visual de las leyendas urbanas. Esta página está diseñada para reflejar nuestra identidad gráfica y conectar directamente con nuestros seguidores y clientes.
 
-  <footer id="contacto">
-    <div class="container">
-      <p>&copy; 2025 ROGUEINK. Todos los derechos reservados.</p>
-      <p>Email: contacto@rogueink.com</p>
-    </div>
-  </footer>
-</body>
-</html>
+---
+
+## Contenido del sitio
+
+* **Página principal:** Diseño web urbano, oscuro y rebelde que muestra nuestras colecciones principales.
+* **Colecciones destacadas:** Presentación visual de productos representativos.
+* **Enlace a tienda en línea:** Conecta directamente con nuestra tienda Printful.
+* **Contacto:** Correo de atención para clientes y colaboradores.
+
+---
+
+## Tecnologías utilizadas
+
+* HTML5
+* CSS3 (estilo urbano personalizado)
+* GitHub Pages (para desplegar el sitio)
+
+---
+
+## Ver en línea
+
+[¡Visita nuestra web en GitHub Pages!](https://sierra88-en.github.io/index.html)
+
+---
+
+## ¿Quiénes somos?
+
+**ROGUEINK** es una marca visual que fusiona arte alternativo, cultura urbana, rebelión gráfica y actitud sin filtro. Nuestros productos están hechos para quienes viven intensamente, piensan distinto y visten con sentido.
+
+---
+
+## Contribuciones
+
+¿Quieres aportar ideas, estilos o sugerencias para mejorar esta página?
+
+1. Haz un fork de este repositorio.
+2. Realiza tus cambios.
+3. Abre un Pull Request.
+
+---
+
+## Contacto
+
+* **Email:** [contacto@rogueink.com](mailto:contacto@rogueink.com)
+* **Instagram:** [@rogueink.official](https://instagram.com/rogueink.official)
+
+---
+
+© 2025 ROGUEINK. Todos los derechos reservados.
