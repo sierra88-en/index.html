@@ -6,10 +6,4 @@
   <title>ROGUEINK - Urban Legends</title>
   <link rel="stylesheet" href="style.css" />
 
-    <div class="container">
-      <p>&copy; 2025 ROGUEINK. Todos los derechos reservados.</p>
-      <p>Email: contacto@rogueink.com</p>
-    </div>
-  </footer>
-</body>
-</html>
+
